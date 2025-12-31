@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <div>还得是以BTC为核心</div>
       </header>
     </div>
   );
